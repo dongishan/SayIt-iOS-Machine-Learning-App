@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7B5D5EA3EB076C62C3709CF52D1EEAA2D7F7336E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "066FC96E87F88F1C1CDA1B0F23856DC12985A7D9" : 9223372036854775807,
+    "7B5D5EA3EB076C62C3709CF52D1EEAA2D7F7336E" : 9223372036854775807,
+    "C82B0EDA6EDAAF532BCF119369B21D8495CDCD51" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "92212453-6980-4363-95DA-857AAC114A3F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "066FC96E87F88F1C1CDA1B0F23856DC12985A7D9" : "",
+    "7B5D5EA3EB076C62C3709CF52D1EEAA2D7F7336E" : "TextToSpeech\/",
+    "C82B0EDA6EDAAF532BCF119369B21D8495CDCD51" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TextToSpeech",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TextToSpeech.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dongishan\/SayIt-iOS-Machine-Learning-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "066FC96E87F88F1C1CDA1B0F23856DC12985A7D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/dongishanbucket\/texttospeech.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7B5D5EA3EB076C62C3709CF52D1EEAA2D7F7336E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/gishan_don_ranasinghe\/machine-learning.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C82B0EDA6EDAAF532BCF119369B21D8495CDCD51"
+    }
+  ]
+}
